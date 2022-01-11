@@ -1,6 +1,6 @@
 apps:
-  - name: stranger-things-back
-    script: ./index.js
+  - script: ./index.js
+    name: Ana-Jacomassi-bd
     exec_mode: cluster
     instances: 2
     watch: false
