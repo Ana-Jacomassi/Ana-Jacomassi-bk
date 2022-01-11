@@ -1,6 +1,6 @@
 apps:
   - script: ./index.js
-    name: Ana-Jacomassi-bd
+    name: ana-jacomassi-bd
     exec_mode: cluster
     instances: 2
     watch: false
